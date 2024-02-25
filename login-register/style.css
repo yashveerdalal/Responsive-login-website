@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+   
+}
+.navbar-brand{
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 4%;
+   
+}
+
+
+
+
+
+.logo{
+    margin-top: 4%;
+    height: 30%;
+    width: 30%; 
+    background-image: url();
+    border-radius: 30px;
+    margin-left: 2%;
+    
+   
+    
+    
+   
+}
+.container{
+    
+        margin-top: 5%;
+        margin-left: 40%;
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        padding: 1%;
+        background-color: rgb(186, 209, 229);
+        
+       
+}
+.form-btn{
+    display: flex;
+    justify-content: center;
+}
+.alr{
+    display: flex;
+    justify-content: center;
+
+}
+.c1{
+    background-image: url(back.jpg);
+}
